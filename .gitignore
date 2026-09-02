@@ -1,1 +1,15 @@
+# MTA build output
 mta_archives/
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Local environment
+.env
+.env.*
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
